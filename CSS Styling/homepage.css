@@ -1,0 +1,28 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 100px;
+    background-color: aquamarine;
+}
+
+header{
+background-color: aquamarine;
+    padding: 1rem;
+    display:flex;
+    justify-content: space-between;
+}
+
+nav ul 
+    list- style-type none;
+    margin: 0
+    paddind:0
+    dispaly: flex
+
+}
+nav ul li{
+    margin- right: 1rem
+}
+nav ul lia a{
+    text-decoration: none;
+    column-rule-color: aquamarine;
+}
